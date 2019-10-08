@@ -1,6 +1,5 @@
 # Bluebox
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<title>Bluebox RHL</title>
@@ -163,5 +162,5 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" data-auto-replace-svg="nest"></script>
 </body>
-</html>
+
  
