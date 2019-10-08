@@ -1,6 +1,6 @@
 # Bluebox
 
-<head>
+<!--<head>
 	<meta charset="UTF-8">
 	<title>Bluebox RHL</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -163,4 +163,3 @@
 <script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" data-auto-replace-svg="nest"></script>
 </body>
 
- 
